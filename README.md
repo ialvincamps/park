@@ -6,12 +6,6 @@
 - https://typeorm.io/
 - https://www.npmjs.com/package/typeorm-seeding
 
-## Setup your Database access in your Environment (.env file) Example:
-
-```
-update the .env file
-```
-
 
 ## Install Package Dependencies
 
@@ -23,9 +17,6 @@ npm install
  - npm run typeorm:pre
  - npm run typeorm:setup:db
 
-## Postman
-
- - import the covid.postman_collection.json in your postman
 
 ## Start the api
 
